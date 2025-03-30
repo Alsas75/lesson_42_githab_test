@@ -7,5 +7,9 @@ public class Main {
         Cat cat = new Cat("Белый", 3);
 
         System.out.println(cat);
+
+        Cat cat1 = new Cat("Рыжий", 2);
+
+        System.out.println(cat1);
     }
 }
